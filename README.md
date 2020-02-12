@@ -1,3 +1,6 @@
+
+其他人的代码，用于控制plc
+
 # s7netplus
 #### A .NET Library for Siemens S7 Connectivity
 
